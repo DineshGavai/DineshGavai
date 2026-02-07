@@ -2,8 +2,6 @@
 
 ### A Software Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DineshGavai" alt="DineshGavai" /></a> </p>
-
 - 🔭 I'm currently working on **♻️ SwachhaSetu – AI-Based Smart Waste Collection & Civic Monitoring **
 
 - 🌱 I'm currently learning **Microservices and Apache Kafka**
