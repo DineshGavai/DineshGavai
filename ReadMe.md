@@ -11,6 +11,8 @@
 - 📫 How to reach me **gavaidinesh26@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1aoXtsPX6sBzlLDg_b7Lvc0smhQ295kp0/view?usp=sharing](https://drive.google.com/file/d/1aoXtsPX6sBzlLDg_b7Lvc0smhQ295kp0/view?usp=sharing)**
+- - 📘 Please do visit my DSA Portfolio **[https://dineshgavai.github.io/DSA/](https://dineshgavai.github.io/DSA/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
